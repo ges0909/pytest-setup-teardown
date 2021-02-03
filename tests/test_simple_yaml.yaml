@@ -1,0 +1,13 @@
+ok:
+  sub1: sub1
+#  param:
+#    fixtures: variant_1
+
+hello:
+  world: world
+  some: other
+
+fixture:
+  - scope: module
+    name: variant_1
+    value: 100
